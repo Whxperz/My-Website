@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="eng" dir "ltr">
+<html lang="en" dir="ltr">
 <head>
     <meta charset ="utf-8">
     <meta name="description" content="This page has a list and links for different parrots species as well as information about them">
@@ -12,7 +12,7 @@
     <header>
 <nav>
 <h2>Navigation</h2>
-<ul>
+  <ul>
   <!-- The next link is dead, not developed -->
   <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/index.html.html"> Parrot Paradise</a></li>
 
@@ -21,39 +21,35 @@
   <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/owningaparrot.html"> Parrot Cages</a></li>
     <li><a href="#birdbehavior"> Bird Behavior</a></li>
     <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/contact.html"> Contact</a></li>
-</ul>
+  </ul>
 </nav>
-</header>
+  </header>
 <main>
   <h1>Parrot Paradise</h1>
-  <artlcle class="">
   </main>
   <footer>
-      <aside class="">
-        <ul>
-          <h2>Types of Parrots</h2>
-          <li> African Grey Parrot</li>
+<h2>Types of Parrots</h2>
+          <p> African Grey Parrot</p>
           <img src="africangrey.jpg" alt="African Grey Parrot">
-          <li> Macaw</li>
+          <p> Macaw</p>
           <img src="macaw.jpg" alt="Blue and Gold Macaw">
-          <li> Amazon Parrot</li>
+          <p> Amazon Parrot</p>
           <img src="amazonparrot.jpg" alt="Yellow Naped Amazon Parrot">
-          <li> Indian Ringneck</li>
+          <p> Indian Ringneck</p>
           <img src="indianringneck.jpg" alt="Green Indian Ringneck Parrot">
-          <li> Parakeet</li>
+          <p> Parakeet</p>
           <img src="parakeet.jpg" alt="Green and black parakeet">
-          <li> Caique</li>
+          <p> Caique</p>
           <img src="caique.jpg" alt="Orange, green, black, and white parrot">
-          <li> Cockatiel</li>
+          <p> Cockatiel</p>
           <img src="cockatiel.jpg" alt="Small yellow-crested parrot">
-          <li> Conure</li>
+          <p> Conure</p>
           <img src="conure.jpg" alt="Orange conure parrot">
-          <li> Cockatoo</li>
+          <p> Cockatoo</p>
           <img src="cockatoo.jpg" alt="Sulfur Crested Cockatoo">
-          <li> Eclectus</li>
+          <p> Eclectus</p>
           <img src="eclectus.jpg" alt="Red Eclectus Parrot">
-          <li> Zebra Finch</li>
+          <p> Zebra Finch</p>
           <img src="zebrafinch.jpg" alt="Zebra Finch">
-        </ul>
 </footer>
 </body>
