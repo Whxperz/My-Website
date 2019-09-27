@@ -1,0 +1,16 @@
+h2{
+color: green;
+  font-size: 1.2cm;
+}
+img{
+   width: 35%;
+}
+
+ul li {
+  color: black;
+}
+
+li>a {
+  color: black;
+  background-color: green;
+}
