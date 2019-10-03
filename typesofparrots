@@ -7,11 +7,12 @@
     <meta name="author" content="Jayasri Sundararajan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Types Of Parrots</title>
+    <link rel="stylesheet" href="style.css" type="text/css"
     </head>
     <body>
     <header>
 <nav>
-<h2>Navigation</h2>
+<h1>Parrot Paradise</h1>
   <ul>
   <!-- The next link is dead, not developed -->
   <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/index.html.html"> Parrot Paradise</a></li>
@@ -25,31 +26,31 @@
 </nav>
   </header>
 <main>
-  <h1>Parrot Paradise</h1>
   </main>
   <footer>
 <h2>Types of Parrots</h2>
-          <p> African Grey Parrot</p>
-          <img src="africangrey.jpg" alt="African Grey Parrot">
-          <p> Macaw</p>
-          <img src="macaw.jpg" alt="Blue and Gold Macaw">
-          <p> Amazon Parrot</p>
-          <img src="amazonparrot.jpg" alt="Yellow Naped Amazon Parrot">
-          <p> Indian Ringneck</p>
-          <img src="indianringneck.jpg" alt="Green Indian Ringneck Parrot">
-          <p> Parakeet</p>
-          <img src="parakeet.jpg" alt="Green and black parakeet">
-          <p> Caique</p>
-          <img src="caique.jpg" alt="Orange, green, black, and white parrot">
-          <p> Cockatiel</p>
-          <img src="cockatiel.jpg" alt="Small yellow-crested parrot">
-          <p> Conure</p>
-          <img src="conure.jpg" alt="Orange conure parrot">
-          <p> Cockatoo</p>
-          <img src="cockatoo.jpg" alt="Sulfur Crested Cockatoo">
-          <p> Eclectus</p>
-          <img src="eclectus.jpg" alt="Red Eclectus Parrot">
-          <p> Zebra Finch</p>
-          <img src="zebrafinch.jpg" alt="Zebra Finch">
+          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/africangrey.html"> African Grey Parrot</a></p>
+          <img src="africangrey.jpg" class= "smaller-image thick-black-border" alt="African Grey Parrot">
+          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/macaw.html"> Macaw</a></p>
+          <img src="macaw.jpg" class= "smaller-image thick-black-border" alt="Blue and Gold Macaw">
+          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/amazonparrot.html"> Amazon Parrot</a></p>
+          <img src="amazonparrot.jpg" class= "smaller-image thick-black-border" alt="Yellow Naped Amazon Parrot">
+          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/indianringneck.html"> Indian Ringneck</a></p>
+          <img src="indianringneck.jpg" class= "smaller-image thick-black-border" alt="Green Indian Ringneck Parrot">
+          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/parakeet.html">Parakeet<a/></p>
+          <img src="parakeet.jpg" class= "smaller-image thick-black-border" alt="Green and black parakeet">
+          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/caique.html"> Caique</a></p>
+          <img src="caique.jpg" class= "smaller-image thick-black-border" alt="Orange, green, black, and white parrot">
+          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/cockatiel.html"> Cockatiel</a></p>
+          <img src="cockatiel.jpg" class= "smaller-image thick-black-border" alt="Small yellow-crested parrot">
+          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/conure.html"> Conure</a></p>
+          <img src="conure.jpg" class= "smaller-image thick-black-border" alt="Orange conure parrot">
+          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/cockatoo.html"> Cockatoo</a></p>
+          <img src="cockatoo.jpg" class= "smaller-image thick-black-border" alt="Sulfur Crested Cockatoo">
+          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/eclectus.html"> Eclectus</a></p>
+          <img src="eclectus.jpg" class= "smaller-image thick-black-border" alt="Red Eclectus Parrot">
+          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/zebrafinch.html"> Zebra Finch</a></p>
+          <img src="zebrafinch.jpg" class= "smaller-image thick-black-border" alt="Zebra Finch">
 </footer>
 </body>
+
