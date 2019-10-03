@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset ="utf-8">
+    <meta name="description" content="This page has a list and links for different parrots species as well as information about them">
+    <meta name="keywords" content="Parrots, Pet Birds, Types of Parrots">
+    <meta name="author" content="Jayasri Sundararajan">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Types Of Parrots</title>
+    <link rel="stylesheet" href="style.css" type="text/css"
+    </head>
+    <body>
+    <header>
+<nav>
+  <ul>
+  <!-- The next link is dead, not developed -->
+  <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/index.html.html"> Parrot Paradise</a></li>
+
+<li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/typesofparrots1.html"> Types of Parrots</a></li>
+  <!-- The next two links are dead, not developed -->
+  <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/owningaparrot.html"> Parrot Cages</a></li>
+    <li><a href="#birdbehavior"> Bird Behavior</a></li>
+    <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/contact.html"> Contact</a></li>
+  </ul>
+</nav>
+  </header>
+<main>
+  <h1>Cockatiel</h1>
+  </main>
