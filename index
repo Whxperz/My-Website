@@ -6,12 +6,12 @@
     <meta name="keywords" content="Parrots, Pet Birds, Types of Parrots">
     <meta name="author" content="Jayasri Sundararajan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Parrot Paradise</title>
+    <link rel="stylesheet" href="style.css" type="text/css"
     </head>
     <body>
       <header>
 <nav>
-<h2>Navigation</h2>
+  <h2>Parrot Paradise</h2>
   <ul>
       <!-- The next link is dead, not developed -->
       <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/index.html.html"> Parrot Paradise</a></li>
@@ -25,13 +25,12 @@
 </nav>
   </header>
 <main>
-  <h1>Parrot Paradise</h1>
-  <img src="BlueandGoldMacaw.jpg" alt="Girl holding a blue-and-yellow macaw.">
+  <img src="BlueandGoldMacaw.jpg" class="larger-image thick-black-border" alt="Girl holding a blue-and-yellow macaw.">
     <p>Parrot Paradise will give you all the information you need to learn about the beautiful variety of birds and help you choose the right parrot companion for you.</p>
     <h2> What are parrots?</h2>
     <p> What makes these birds parrots?</p>
     <p>Curved Beaks<p>
-    <p>Zygodactl feet (Four toes on each foot. Two toes that point forward, two toes that point backward.)<p> 
+    <p>Zygodactl feet (Four toes on each foot. Two toes that point forward, two toes that point backward.)<p>
 </main>
 <footer>
   <h2> What are the pros of owning a parrot? </h2>
