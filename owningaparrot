@@ -7,35 +7,34 @@
     <meta name="author" content="Jayasri Sundararajan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Parrot Paradise</title>
+    <link rel="stylesheet" href="style.css" type="text/css"
     </head>
     <body>
       <header>
         <nav>
-        <h2>Navigation</h2>
           <ul>
               <!-- The next link is dead, not developed -->
               <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/index.html.html"> Parrot Paradise</a></li>
             <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/typesofparrots1.html"> Types of Parrots</a></li>
               <!-- The next two links are dead, not developed -->
-              <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/owningaparrot.html"> Parrot Cages</a></li>
-              <li><a href="#birdbehavior"> Bird Behavior</a></li>
+              <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/owningaparrot.html"> Owning A Parrot</a></li>
               <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/contact.html"> Contact</a></li>
           </ul>
         </nav>
           </header>
 <main>
-  <h1>Parrot Paradise</h1>
+
     <h2>Cages</h2>
-    <h2>Sizes</h2>
+    <h3>Sizes</h3>
     <p>When choosing a cage you should always try to get the largest cage size you can get. If a cage is too small it could lead to behavior issues such as screaming, feather plucking, biting, and it would be easier for your bird to get blood feathers from nightfrights.
     Bar spacing is also something that should be taken into consideration when choosing a cage. It's important to know whether your bird could get stuck in between the bars or not. Horizontal bars are usually better than vertical bars as well because it promotes the bird
    to climb and get more exercise.</p>
-    <h2>Shapes</h2>
+    <h3>Shapes</h3>
     <p>Round cages have been proven by studies to affect birds behaviorally, many round cages also do not offer enough room for any bird. Getting an angled cage would be much better for your birds psychological and physical health as well.
-  </main>
-  <h2>Material</h2>
+  <h3>Material</h3>
   <p>There are many types of material to choose from when it comes to cages. There are stainless steel, powder-coated, wrought iron, metal, plastic, ornate, wooden, and acrylic. Each cage has its own pros and cons but stainless steel or powder-coated cages are proven to be the best as well as most popular cage material for birds. </p>
+  </main>
     <footer>
-    <h2>Important note</h2>
+    <h3>Important note</h3>
   <p>For large birds the cages must have doors will well designed locks as well as a cage that's made of very sturdy material.</p></footer>
     </body>
