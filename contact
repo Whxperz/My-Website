@@ -12,14 +12,12 @@
     <body>
       <header>
         <nav>
-        <h2>Parrot Paradise</h2>
           <ul>
               <!-- The next link is dead, not developed -->
               <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/index.html.html"> Parrot Paradise</a></li>
             <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/typesofparrots1.html"> Types of Parrots</a></li>
               <!-- The next two links are dead, not developed -->
-              <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/owningaparrot.html"> Parrot Cages</a></li>
-              <li><a href="#birdbehavior"> Bird Behavior</a></li>
+              <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/owningaparrot.html"> Owning A Parrot</a></li>
               <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/contact.html"> Contact</a></li>
           </ul>
         </nav>
@@ -31,3 +29,4 @@
             <p>Email: Jayasri.Sundararajan.2022@student.lhschools.org</p>
             <p>Instagram: @Jaya.s_</p>
 </main>
+
