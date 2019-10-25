@@ -6,7 +6,7 @@
     <meta name="keywords" content="Bird Website Contact">
     <meta name="author" content="Jayasri Sundararajan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Parrot Paradise</title>
+    <title>Contact</title>
     <link rel="stylesheet" href="style.css" type="text/css"
     </head>
     <body>
@@ -14,11 +14,11 @@
         <nav>
           <ul>
               <!-- The next link is dead, not developed -->
-              <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/index.html.html"> Parrot Paradise</a></li>
-            <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/typesofparrots1.html"> Types of Parrots</a></li>
+              <li><a href="ParrotParadise.html"> Parrot Paradise</a></li>
+            <li><a href="typesofparrots1.html"> Types of Parrots</a></li>
               <!-- The next two links are dead, not developed -->
-              <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/owningaparrot.html"> Owning A Parrot</a></li>
-              <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/contact.html"> Contact</a></li>
+              <li><a href="owningaparrot.html"> Owning A Parrot</a></li>
+              <li><a href="contact.html"> Contact</a></li>
           </ul>
         </nav>
           </header>
