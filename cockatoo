@@ -14,16 +14,27 @@
 <nav>
   <ul>
   <!-- The next link is dead, not developed -->
-  <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/index.html.html"> Parrot Paradise</a></li>
+  <li><a href="ParrotParadise.html"> Parrot Paradise</a></li>
 
-<li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/typesofparrots1.html"> Types of Parrots</a></li>
+<li><a href="typesofparrots1.html"> Types of Parrots</a></li>
   <!-- The next two links are dead, not developed -->
-  <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/owningaparrot.html"> Parrot Cages</a></li>
+  <li><a href="owningaparrot.html"> Parrot Cages</a></li>
     <li><a href="#birdbehavior"> Bird Behavior</a></li>
-    <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/contact.html"> Contact</a></li>
+    <li><a href="contact.html"> Contact</a></li>
   </ul>
 </nav>
   </header>
 <main>
   <h1>Cockatoo</h1>
+  <h2>Cacatuide</h2>
+  <p> The African Grey is considered one of the most intelligent birds</p>
+  <h3>Color</h3>
+  <p></p>
+  <h3>Size</h3>
+  <p></p>
+  <h3>Lifespan</h3>
+  <p></p>
+  <h3>Sounds</h3>
+  <p></p>
+  <h3>Interaction</h3>
   </main>
