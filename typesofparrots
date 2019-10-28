@@ -7,7 +7,7 @@
     <meta name="author" content="Jayasri Sundararajan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Types Of Parrots</title>
-    <link rel="stylesheet" href="style.css" type="text/css"
+    <link rel="stylesheet" href="style.css" type="text/css">
     </head>
     <body>
     <header>
@@ -36,7 +36,7 @@
           <img src="indianringneckCropped.jpg" class= "smaller-image thick-black-border" alt="Green Indian Ringneck Parrot">
             <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/indianringneck.html"> Indian Ringneck</a></p>
           <img src="parakeetCropped.jpg" class= "smaller-image thick-black-border" alt="Green and black parakeet">
-          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/parakeet.html">Parakeet<a/></p>
+          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/parakeet.html">Parakeet</a></p>
           <img src="caiqueCropped.jpg" class= "smaller-image thick-black-border" alt="Orange, green, black, and white parrot">
           <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/caique.html"> Caique</a></p>
           <img src="cockatielCropped.jpg" class= "smaller-image thick-black-border" alt="Small yellow-crested parrot">
@@ -48,8 +48,5 @@
           <img src="eclectusCropped.jpg" class= "smaller-image thick-black-border" alt="Red Eclectus Parrot">
           <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/eclectus.html"> Eclectus</a></p>
           <img src="zebrafinchCropped.jpg" class= "smaller-image thick-black-border" alt="Zebra Finch">
-          </main>
-<footer>
-</footer>
+</main>
 </body>
-
