@@ -1,46 +1,69 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-<head>
-    <meta charset ="utf-8">
-    <TITLE>Parrot Paradise</TITLE>
-    <meta name="description" content="This website is an informational website about different types of parrots">
-    <meta name="keywords" content="Parrots, Pet Birds, Types of Parrots">
-    <meta name="author" content="Jayasri Sundararajan">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css" type="text/css">
-    </head>
-    <body>
-      <header>
-<nav>
-  <ul>
-      <!-- The next link is dead, not developed -->
-      <li><a href="ParrotParadise.html"> Parrot Paradise</a></li>
 
-    <li><a href="typesofparrots1.html"> Types of Parrots</a></li>
-      <!-- The next two links are dead, not developed -->
-      <li><a href="owningaparrot.html"> Owning A Parrot</a></li>
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="This website is an informational website about different types of parrots">
+  <meta name="keywords" content="Parrots, Pet Birds, Types of Parrots">
+  <meta name="author" content="Jayasri Sundararajan">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css" type="text/css">
+
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <!-- The next link is dead, not developed -->
+        <li><a href="ParrotParadise.html"> Parrot Paradise</a></li>
+
+        <li><a href="typesofparrots1.html"> Types of Parrots</a></li>
+        <!-- The next two links are dead, not developed -->
+        <li><a href="owningaparrot.html"> Owning A Parrot</a></li>
         <li><a href="contact.html"> Contact</a></li>
-  </ul>
-</nav>
+      </ul>
+         <!-- <div class="title">Title</div>
+        <div class="header">Header</div>
+        <div class="sidebar">Sidebar</div>
+        <div class="content">Content</div>
+        <div class="footer">Footer</div>
+      </div>  -->
+    </nav>
   </header>
-<main>
-  <img src="BlueandGoldMacawCropped.jpg" class="larger-image thick-black-border" alt="Girl holding a blue-and-yellow macaw.">
-    <p>Parrot Paradise will give you all the information you need to learn about the beautiful variety of birds and help you choose the right parrot companion for you.</p>
+  <main>
+    <img src="BlueandGoldMacawCropped.jpg" class="larger-image thick-black-border" alt="Girl holding a blue-and-yellow macaw.">
+    <div class ="mainpagesection1">
+	<div style="border:2px solid black;font-size:1em;color:white">
+	<p>Parrot Paradise will give you all the information you need to learn about the beautiful variety of birds and help you choose the right parrot companion for you.</p>
+	</div>
+	</div>
+	<div class="mainpagesection2">
+	<div style="border:2px solid black;font-size:1em;color:white">
     <h2> What are parrots? What makes these birds parrots?</h2>
     <p>Curved Beaks<p>
     <p>Zygodactl feet (Four toes on each foot. Two toes that point forward, two toes that point backward.)<p>
-</main>
-<footer>
-    <h2> What are the pros of owning a parrot? </h2>
+	</div>
+	</div>
+	<div class="mainpagesection3">
+	<div style="border:2px solid black;font-size:1em;color:white">	
+	<h3>What are the pros of owning a parrot? </h3>
     <p>Have a longer life span than most pets</p>
     <p>Can increase your amount of social interaction</p>
     <p>Some parrots can talk</p>
     <p>Variety of colors and sizes</p>
-    <h2> What are cons of owning a parrot?</h2>
+	</div>
+	</div>
+ </main>
+  <footer>
+	<div class="footersection">
+	<div style="border:2px solid black;font-size:1em;">	
+	<h3>What are cons of owning a parrot?</h3>
     <p>Parrots are messy</p>
     <p>Not all can talk</p>
     <p>Some sizes of parrots can make them incompatible</p>
     <p>Need more attention than most pets</p>
     <p>Long lifespan means not a lot of travelling</p>
-      </footer>
-    </body>
+	</div>
+	</div>
+  </footer>
+</body>
