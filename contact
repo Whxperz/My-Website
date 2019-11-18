@@ -24,9 +24,14 @@
           </header>
           <main>
             <h1>Parrot Paradise</h1>
+		   <div class="contactsection">
+			<div style="border:1px solid black;font-size:1em;color:white">
             <h2>Contacts</h2>
-            <p>If you have any questions or concerns feel free to contact the author of this page through email or Instagram.</p>
+		    <p>If you have any questions or concerns feel free to contact the author of this page through email or Instagram.</p>
             <p>Email: Jayasri.Sundararajan.2022@student.lhschools.org</p>
             <p>Instagram: @Jaya.s_</p>
+			</div>
+			</div>
 </main>
+</body>
 
