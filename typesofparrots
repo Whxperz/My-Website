@@ -15,38 +15,62 @@
 
   <ul>
   <!-- The next link is dead, not developed -->
-  <li><a href="index.html.html"> Parrot Paradise</a></li>
+  <li><a href="index.html"> Parrot Paradise</a></li>
 
 <li><a href="typesofparrots1.html"> Types of Parrots</a></li>
   <!-- The next two links are dead, not developed -->
-  <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/owningaparrot.html"> Owning A Parrot</a></li>
-    <li><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/contact.html"> Contact</a></li>
+  <li><a href="owningaparrot.html"> Owning A Parrot</a></li>
+    <li><a href="contact.html"> Contact</a></li>
   </ul>
 </nav>
   </header>
 <main>
 <div class="navbar">
 <h2>Types of Parrots</h2>
-          <img src="africangreyCropped.jpg" class= "smaller-image thick-black-border" alt="African Grey Parrot">
-          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/africangrey.html"> African Grey Parrot</a></p>
-          <img src="macawCropped.jpg" class= "smaller-image thick-black-border" alt="Blue and Gold Macaw">
-          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/macaw.html"> Macaw</a></p>
-          <img src="amazonparrotCropped.jpg" class= "smaller-image thick-black-border" alt="Yellow Naped Amazon Parrot">
-          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/amazonparrot.html"> Amazon Parrot</a></p>
-          <img src="indianringneckCropped.jpg" class= "smaller-image thick-black-border" alt="Green Indian Ringneck Parrot">
-            <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/indianringneck.html"> Indian Ringneck</a></p>
-          <img src="parakeetCropped.jpg" class= "smaller-image thick-black-border" alt="Green and black parakeet">
-          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/parakeet.html">Parakeet</a></p>
-          <img src="caiqueCropped.jpg" class= "smaller-image thick-black-border" alt="Orange, green, black, and white parrot">
-          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/caique.html"> Caique</a></p>
-          <img src="cockatielCropped.jpg" class= "smaller-image thick-black-border" alt="Small yellow-crested parrot">
-          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/cockatiel.html"> Cockatiel</a></p>
-          <img src="conureCropped.jpg" class= "smaller-image thick-black-border" alt="Orange conure parrot">
-          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/conure.html"> Conure</a></p>
-          <img src="cockatooCropped.jpg" class= "smaller-image thick-black-border" alt="Sulfur Crested Cockatoo">
-          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/cockatoo.html"> Cockatoo</a></p>
-          <img src="eclectusCropped.jpg" class= "smaller-image thick-black-border" alt="Red Eclectus Parrot">
-          <p><a href="file:///C:/Users/21277/github/My-Website/MyWebsite/eclectus.html"> Eclectus</a></p>
-          <img src="zebrafinchCropped.jpg" class= "smaller-image thick-black-border" alt="Zebra Finch">
+<div class ="flex-container">         
+		 <div>
+		 <img src="africangreyCropped.jpg" class= "smaller-image thick-black-border" alt="African Grey Parrot">
+          <p><a href="africangrey.html"> African Grey Parrot</a></p>
+          </div>
+		  <div>
+		  <img src="macawCropped.jpg" class= "smaller-image thick-black-border" alt="Blue and Gold Macaw">
+          <p><a href="macaw.html"> Macaw</a></p>
+          </div>
+		  <div>
+		  <img src="amazonparrotCropped.jpg" class= "smaller-image thick-black-border" alt="Yellow Naped Amazon Parrot">
+          <p><a href="amazonparrot.html"> Amazon Parrot</a></p>
+          </div>
+		 <div>		 
+		 <img src="indianringneckCropped.jpg" class= "smaller-image thick-black-border" alt="Green Indian Ringneck Parrot">
+            <p><a href="indianringneck.html"> Indian Ringneck</a></p>
+         </div>
+		 <div> 
+		  <img src="parakeetCropped.jpg" class= "smaller-image thick-black-border" alt="Green and black parakeet">
+          <p><a href="parakeet.html">Parakeet</a></p>
+         </div>         
+	</div> 	 
+<div class ="flex-container">         
+		<div>
+		 <img src="caiqueCropped.jpg" class= "smaller-image thick-black-border" alt="Orange, green, black, and white parrot">
+          <p><a href="caique.html"> Caique</a></p>
+		</div>
+		 <div>
+		 <img src="cockatielCropped.jpg" class= "smaller-image thick-black-border" alt="Small yellow-crested parrot">
+          <p><a href="cockatiel.html"> Cockatiel</a></p>
+		  </div>
+		<div>
+		 <img src="conureCropped.jpg" class= "smaller-image thick-black-border" alt="Orange conure parrot">
+          <p><a href="conure.html"> Conure</a></p>
+         </div> 
+		 <div> 
+		  <img src="cockatooCropped.jpg" class= "smaller-image thick-black-border" alt="Sulfur Crested Cockatoo">
+          <p><a href="cockatoo.html"> Cockatoo</a></p>
+         </div> 
+		 <div>
+		 <img src="eclectusCropped.jpg" class= "smaller-image thick-black-border" alt="Red Eclectus Parrot">
+          <p><a href="eclectus.html"> Eclectus</a></p>
+         </div>
+		 </div>
+ </div>
 </main>
 </body>
