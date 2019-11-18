@@ -1,40 +1,57 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
+
 <head>
-    <meta charset ="utf-8">
-    <meta name="description" content="This page has information about owning and taking care of a parrot">
-    <meta name="keywords" content="Bird Care, Parrot Care">
-    <meta name="author" content="Jayasri Sundararajan">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Owning a Parrot</title>
-    <link rel="stylesheet" href="style.css" type="text/css">
-    </head>
-    <body>
-      <header>
-        <nav>
-          <ul>
-              <!-- The next link is dead, not developed -->
-              <li><a href="ParrotParadise.html"> Parrot Paradise</a></li>
-            <li><a href="typesofparrots1.html"> Types of Parrots</a></li>
-              <!-- The next two links are dead, not developed -->
-              <li><a href="owningaparrot.html"> Owning A Parrot</a></li>
-              <li><a href="contact.html"> Contact</a></li>
-          </ul>
-        </nav>
-          </header>
-<main>
+  <meta charset="utf-8">
+  <meta name="description" content="This page has information about owning and taking care of a parrot">
+  <meta name="keywords" content="Bird Care, Parrot Care">
+  <meta name="author" content="Jayasri Sundararajan">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Owning a Parrot</title>
+  <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+
+<body>
+  <header>
+    <nav>
+      <ul>
+        <!-- The next link is dead, not developed -->
+        <li><a href="ParrotParadise.html"> Parrot Paradise</a></li>
+        <li><a href="typesofparrots1.html"> Types of Parrots</a></li>
+        <!-- The next two links are dead, not developed -->
+        <li><a href="owningaparrot.html"> Owning A Parrot</a></li>
+        <li><a href="contact.html"> Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
 
     <h2>Cages</h2>
-    <h3>Sizes</h3>
-    <p>When choosing a cage you should always try to get the largest cage size you can get. If a cage is too small it could lead to behavior issues such as screaming, feather plucking, biting, and it would be easier for your bird to get blood feathers from nightfrights.
-    Bar spacing is also something that should be taken into consideration when choosing a cage. It's important to know whether your bird could get stuck in between the bars or not. Horizontal bars are usually better than vertical bars as well because it promotes the bird
-   to climb and get more exercise.</p>
-    <h3>Shapes</h3>
+    <div class="section1">
+	<div style="border:1px solid black;font-size:1em;color:white">
+	<h3 style = "font-size:1em">Sizes</h3>
+	<p>When choosing a cage you should always try to get the largest cage size you can get. If a cage is too small it could lead to behavior issues such as screaming, feather plucking, biting, and it would be easier for your bird to get blood
+      feathers from nightfrights.
+      Bar spacing is also something that should be taken into consideration when choosing a cage. It's important to know whether your bird could get stuck in between the bars or not. Horizontal bars are usually better than vertical bars as well
+      because it promotes the bird
+      to climb and get more exercise.</p>
+	</div>
+	<div style="border:1px solid black;color:white;font-size:1em">
+     <h3 style = "font-size:1em">Shapes</h3>
     <p>Round cages have been proven by studies to affect birds behaviorally, many round cages also do not offer enough room for any bird. Getting an angled cage would be much better for your birds psychological and physical health as well.
-  <h3>Material</h3>
-  <p>There are many types of material to choose from when it comes to cages. There are stainless steel, powder-coated, wrought iron, metal, plastic, ornate, wooden, and acrylic. Each cage has its own pros and cons but stainless steel or powder-coated cages are proven to be the best as well as most popular cage material for birds. </p>
+ 	</p>
+	</div>
+	</div>
+	<div class="section3">
+	<div style="border:1px solid black;color:white;font-size:1em">
+     <h3 style = "font-size:1em"> Material</h3>
+      <p>There are many types of material to choose from when it comes to cages. There are stainless steel, powder-coated, wrought iron, metal, plastic, ornate, wooden, and acrylic. Each cage has its own pros and cons but stainless steel or
+        powder-coated cages are proven to be the best as well as most popular cage material for birds. </p>
+	</div>
+	</div>
   </main>
-    <footer>
+  <footer>
     <h3>Important note</h3>
-  <p>For large birds the cages must have doors will well designed locks as well as a cage that's made of very sturdy material.</p></footer>
-    </body>
+   <p style >For large birds the cages must have doors will well designed locks as well as a cage that's made of very sturdy material.</p>
+  </footer>
+</body>
