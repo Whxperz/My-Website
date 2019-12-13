@@ -7,7 +7,7 @@
     <meta name="author" content="Jayasri Sundararajan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Types Of Parrots</title>
-    <link rel="stylesheet" href="style.css" type="text/css"
+    <link rel="stylesheet" href="style.css" type="text/css">
     </head>
     <body>
     <header>
@@ -39,3 +39,8 @@
   <h3>Interaction</h3>
   <p>Highly Social</p>
   </main>
+  <footer>
+  <h4> Quick note</h4>
+  <p>African Greys are prone to calcium deficiency, vitamin-A & D deficiency, and respiratory infection. These birds are also known to be susceptible to feather picking due to boredom, to avoid this you can provide your feathered friend with many scavenging toys that have both healthy and yummy treats as a reward.</p>
+</footer>
+</body>
