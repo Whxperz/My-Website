@@ -7,7 +7,7 @@
     <meta name="author" content="Jayasri Sundararajan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Types Of Parrots</title>
-    <link rel="stylesheet" href="style.css" type="text/css"
+    <link rel="stylesheet" href="style.css" type="text/css">
     </head>
     <body>
     <header>
@@ -39,3 +39,7 @@
   <h3>Interaction</h3>
   <p>Social</p>
   </main>
+  <footer>
+    <h4> Quick note</h4>
+    <p>Parakeets are prone to iodine deficiency which can cause tumors. This is mostly due to an all-seed diet, to prevent this from occurring make sure to feed your parakeets lots of fruits and veggies along with nutritious pellets.</p>
+  </footer>
