@@ -7,7 +7,7 @@
     <meta name="author" content="Jayasri Sundararajan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Types Of Parrots</title>
-    <link rel="stylesheet" href="style.css" type="text/css"
+    <link rel="stylesheet" href="style.css" type="text/css">
     </head>
     <body>
     <header>
@@ -39,4 +39,7 @@
   <h3>Interaction</h3>
   <p>Highly Social</p>
   </main>
-
+  <footer>
+    <h4> Quick note</h4>
+    <p>Cauique's are often getting into trouble and due to their curious nature, they may find themselves in dangerous situations. To avoid this situation try to keep a  close eye on your feathered friend and keep their cage in a safe environment away from the kitchen or other possibly dangerous rooms.</p>
+  </footer>
