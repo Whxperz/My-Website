@@ -7,7 +7,7 @@
     <meta name="author" content="Jayasri Sundararajan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Types Of Parrots</title>
-    <link rel="stylesheet" href="style.css" type="text/css"
+    <link rel="stylesheet" href="style.css" type="text/css">
     </head>
     <body>
     <header>
@@ -39,3 +39,7 @@
   <h3>Interaction</h3>
   <p>Social</p>
   </main>
+  <footer>
+    <h4> Quick note</h4>
+  <p>Many current and former cockatiel owners worry when their cockatiels sneeze but have no fear, this is quite normal and necessary in order for them to clear out any dust and dander in their nares. Many cockatiels are fed a seed based diet which is very unhealthy for them especially for females who are susceptible to egg-laying, to provide them with all the nutrition they need make sure to give them lots of veggies and fruits.</p>
+</footer>
