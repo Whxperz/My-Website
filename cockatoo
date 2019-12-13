@@ -7,7 +7,7 @@
     <meta name="author" content="Jayasri Sundararajan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Types Of Parrots</title>
-    <link rel="stylesheet" href="style.css" type="text/css"
+    <link rel="stylesheet" href="style.css" type="text/css">
     </head>
     <body>
     <header>
@@ -27,14 +27,19 @@
 <main>
   <h1>Cockatoo</h1>
   <h2>Cacatuide</h2>
-  <p> The African Grey is considered one of the most intelligent birds</p>
+  <p> Cockatoos are considered to be one of the most social and demanding parrots which earns them the nickname "velcro" bird.</p>
   <h3>Color</h3>
-  <p></p>
+  <p>Black, Gray, Pink, White</p>
   <h3>Size</h3>
-  <p></p>
+  <p>Large, Medium</p>
   <h3>Lifespan</h3>
-  <p></p>
+  <p>30+ Years</p>
   <h3>Sounds</h3>
-  <p></p>
+  <p>Vocal Communicator</p>
   <h3>Interaction</h3>
+  <p>Highly Social</p>
   </main>
+  <footer>
+    <h4> Quick note</h4>
+    <p>Cockatoos are prone to feather picking and obesity, to avoid this the owner can provide their feathered friend with a healthy diet and by incorporatng toys that allow them to cavenge for their food.</p>
+  </footer>
