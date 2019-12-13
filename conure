@@ -7,7 +7,7 @@
     <meta name="author" content="Jayasri Sundararajan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Types Of Parrots</title>
-    <link rel="stylesheet" href="style.css" type="text/css"
+    <link rel="stylesheet" href="style.css" type="text/css">
     </head>
     <body>
     <header>
@@ -27,14 +27,19 @@
 <main>
   <h1>Conure</h1>
   <h2>Psittaciformes</h2>
-  <p> The African Grey is considered one of the most intelligent birds</p>
+  <p> Conures, although small in size come with big personalities. They're playful, curious, and love to be around people which means you'll often find them where most of the household activity is.</p>
   <h3>Color</h3>
-  <p></p>
+  <p>Blue, Green Orange, Yellow</p>
   <h3>Size</h3>
-  <p></p>
+  <p>Medium-Small</p>
   <h3>Lifespan</h3>
-  <p></p>
+  <p>15-20 Years</p>
   <h3>Sounds</h3>
-  <p></p>
+  <p>Vocal Communicator</p>
   <h3>Interaction</h3>
+  <p>Highly Social</p>
   </main>
+  <footer>
+    <h4> Quick note</h4>
+    <p>Conures are prone to feather picking out of boredom, to avoid this provide your feathered friend with a variety of toys and be sure to avoid possibly harmful things such as rope perches.</p>
+  </footer>
