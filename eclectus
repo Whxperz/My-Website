@@ -7,7 +7,7 @@
     <meta name="author" content="Jayasri Sundararajan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Types Of Parrots</title>
-    <link rel="stylesheet" href="style.css" type="text/css"
+    <link rel="stylesheet" href="style.css" type="text/css">
     </head>
     <body>
     <header>
@@ -27,15 +27,19 @@
 <main>
   <h1>Eclectus</h1>
   <h2>Eclectus roratus</h2>
-  <p> The African Grey is considered one of the most intelligent birds</p>
+  <p> Eclectus parrots are known for for their fur-like appearance because their feathers don't have a distinct outline like most other parrots. Males are a bright green and females are a bright red.</p>
   <h3>Color</h3>
-  <p></p>
+  <p>Green, Red</p>
   <h3>Size</h3>
-  <p></p>
+  <p>Medium</p>
   <h3>Lifespan</h3>
-  <p></p>
+  <p>20-30 Years</p>
   <h3>Sounds</h3>
-  <p></p>
+  <p>Vocal Communicator</p>
   <h3>Interaction</h3>
+  <p>Social</p>
   </main>
-
+  <footer>
+    <h4> Quick note</h4>
+    <p>Eclectus parrots are more prone to feather picking, toe-tapping, and wing-flipping type muscle spasms than most other parrots and this is usually a cause of vitamin deficiency. If this occurs make sure to have an avian vet ready to take your Eclectus parrot to.</p>
+  </footer>
