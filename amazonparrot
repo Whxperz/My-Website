@@ -7,7 +7,7 @@
     <meta name="author" content="Jayasri Sundararajan">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Types Of Parrots</title>
-    <link rel="stylesheet" href="style.css" type="text/css"
+    <link rel="stylesheet" href="style.css" type="text/css">
     </head>
     <body>
     <header>
@@ -39,3 +39,7 @@
   <h3>Interaction</h3>
   <p>Social</p>
   </main>
+  <footer>
+    <h4> Quick note</h4>
+  <p>Amazon parrots are prone to obesity so owners should pay close attention to what and how much they're feeding their feathered friend</p>
+</footer>
